@@ -1,0 +1,11 @@
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\obj\Debug\Shock Dyno Program.csproj.AssemblyReference.cache
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\obj\Debug\Shock Dyno Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\obj\Debug\Shock_Dyno_Program.Properties.Resources.resources
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\obj\Debug\Shock Dyno Program.csproj.GenerateResource.cache
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\obj\Debug\Shock Dyno Program.csproj.CoreCompileInputs.cache
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\bin\Debug\Shock Dyno Program.exe.config
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\bin\Debug\Shock Dyno Program.exe
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\bin\Debug\Shock Dyno Program.pdb
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\obj\Debug\Shock Dyno Program.exe
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\obj\Debug\Shock Dyno Program.pdb
+C:\Users\explo\University of Oklahoma\Sooner Off-Road - Documents\Capstone '22-'23\Shok Daddy\Software\Shock Dyno Program\obj\Debug\ShockDynamometer.Form1.resources
