@@ -34,7 +34,7 @@
             // 
             // zedGraphControl1
             // 
-            this.zedGraphControl1.Location = new System.Drawing.Point(487, 163);
+            this.zedGraphControl1.Location = new System.Drawing.Point(457, 147);
             this.zedGraphControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.zedGraphControl1.Name = "zedGraphControl1";
             this.zedGraphControl1.ScrollGrace = 0D;
